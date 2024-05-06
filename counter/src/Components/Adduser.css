@@ -1,0 +1,22 @@
+form{
+    width: 30vw;
+    height: 48vh;
+    background-color: #fff;
+    color:#000;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.input{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 30vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+input,select{
+    width: 15vw;
+    height: 4vh;
+}
